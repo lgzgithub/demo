@@ -10,5 +10,6 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("你好");
         System.out.println("adada");
+        System.out.println("谢谢");
     }
 }
